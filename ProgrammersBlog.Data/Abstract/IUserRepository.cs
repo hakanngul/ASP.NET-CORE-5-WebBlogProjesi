@@ -6,8 +6,8 @@ using System.Text;
 
 namespace ProgrammersBlog.Data.Abstract
 {
-    public interface IArticleRepository: IEntityRepository<Article>
+    public interface IUserRepository: IEntityRepository<User>
     {
-        
+
     }
 }
